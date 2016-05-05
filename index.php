@@ -12,12 +12,12 @@ foreach ($dirList as $element){
 <html>
 <head>
     <link href="http://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
-    <link type="text/css" rel="stylesheet" href="homepage-webserver/materialize-src/sass/materialize.css"  media="screen,projection"/>
+    <link type="text/css" rel="stylesheet" href="homepage-webserver/ressources/app/materialize-src/sass/materialize.css"  media="screen,projection"/>
     <link rel="icon" href="homepage-webserver/favicon.ico">
     <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
 </head>
 <body>
-<div class="">
+<div>
     <div class="row">
         <nav>
             <div class="nav-wrapper">
@@ -59,7 +59,7 @@ foreach ($dirList as $element){
     </div>
 </div>
 <script type="text/javascript" src="https://code.jquery.com/jquery-2.1.1.min.js"></script>
-<script type="text/javascript" src="homepage-webserver/materialize-src/js/materialize.min.js"></script>
-<script type="text/javascript" src="homepage-webserver/materialize-src/js/custom.js"></script>
+<script type="text/javascript" src="homepage-webserver/ressources/app/materialize-src/js/materialize.min.js"></script>
+<script type="text/javascript" src="homepage-webserver/ressources/js/custom.js"></script>
 </body>
 </html>
