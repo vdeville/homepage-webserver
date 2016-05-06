@@ -14,6 +14,7 @@ foreach ($dirList as $element){
     <link href="http://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
     <link type="text/css" rel="stylesheet" href="homepage-webserver/ressources/app/materialize-src/sass/materialize.css"  media="screen,projection"/>
     <link rel="icon" href="homepage-webserver/favicon.ico">
+    <meta charset="UTF-8"/>
     <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
 </head>
 <body>
